@@ -52,3 +52,6 @@ request
 - google api
 
 ## AI
+
+- tensorflow
+- pytorch
