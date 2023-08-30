@@ -50,3 +50,5 @@ request
 ## Python với api
 
 - google api
+
+## AI
